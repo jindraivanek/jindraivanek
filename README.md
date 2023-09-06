@@ -1,8 +1,20 @@
-### Jindřich Ivánek
+## Jindřich (Jindra) Ivánek
 
 F# developer
 
 Blog: https://jindraivanek.hashnode.dev
+
+### Brief F# OSS history
+- 2012 - started using F#
+- 2014 - started using F# professionally - Shift planning optimization at AristoTelos
+- 2017 - first Fantomas PR
+- 2018 - Started co-operating with Florian (@nojaf) on Fantomas
+- 2018 - Fantomas Online released - base of Fantomas Tools
+- 2019 - Fantomas 3 released
+- 2020 - children born - OSS parent break :)
+- 2023 - joined F# team at Ciklum Western Europe (former CN Group)
+
+----
 
 <!--- stats & Trophy (start) -->
 
