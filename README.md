@@ -13,7 +13,7 @@ Projects: https://jindraivanek.hashnode.dev/projects
 - 2018 - Started co-operating with Florian (@nojaf) on Fantomas
 - 2018 - Fantomas Online released - base of Fantomas Tools
 - 2019 - Fantomas 3 released
-- 2020 - children born - OSS parent break :)
+- 2020 - child born - OSS parent break :)
 - 2023 - joined F# team at Ciklum Western Europe (former CN Group)
 
 ----
