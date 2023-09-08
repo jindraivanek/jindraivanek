@@ -4,6 +4,8 @@ F# developer
 
 Blog: https://jindraivanek.hashnode.dev
 
+Projects: https://jindraivanek.hashnode.dev/projects
+
 ### Brief F# OSS history
 - 2012 - started using F#
 - 2014 - started using F# professionally - Shift planning optimization at AristoTelos
